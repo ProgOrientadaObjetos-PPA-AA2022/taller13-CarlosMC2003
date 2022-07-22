@@ -72,7 +72,7 @@ public class OperacionesTelevisor {
         cadena = String.format("LISTADO DE MARCAS TVS\n"
                 + "%s"
                 + "---------------------\n"
-                + "TOTAL A PAGAR: %.2f\n}"
+                + "TOTAL A PAGAR: %.2f\n"
                 + "TELEVISOR MAS CARO: %.2f\n", listaMarcas,
                 precioTotal, televisorMasCaro );
         
